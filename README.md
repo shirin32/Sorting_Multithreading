@@ -1,4 +1,4 @@
-# Sorting_Multithreading
+# Multithreaded Sorting
 Understanding performance of Quick Sort algorithm using multi-threading 
 
 The objective of this project is to evaluate the performance of a sorting application with
